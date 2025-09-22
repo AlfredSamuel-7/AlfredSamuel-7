@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./banner.png" alt="Alfred Samuel Banner" />
+  <img src="./banner.jpg" alt="Alfred Samuel Banner" />
 </p>
-<h1 align="center">Alfred Samuel</h1>
+
 <p align="center">
   <strong>Computer Science + Design · AI & ML · Full-Stack Development</strong>
 </p>
