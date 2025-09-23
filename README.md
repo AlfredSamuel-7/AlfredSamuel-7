@@ -35,27 +35,15 @@
 ## GitHub at a Glance
 
 <p align="center">
-  <!-- Left: overall stats | Right: top languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AlfredSamuel-7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" width="520" style="display:inline-block; margin-right:14px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredSamuel-7&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="320" style="display:inline-block;" />
-</p>
-
-<p align="center" markdown="1">
-  <!-- Optional contribution streak / activity line -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlfredSamuel-7&theme=radical&hide_border=true" alt="GitHub streak" width="860" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlfredSamuel-7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredSamuel-7&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="170" />
 </p>
 
 <p align="center">
-  
-  
-  <br>
-  <sub>
-
-  </sub>
+  <img src="https://streak-stats.demolab.com?user=AlfredSamuel-7&theme=radical&hide_border=true" alt="GitHub streak" height="170" />
 </p>
 
-
-<img width="1120" height="607" alt="image" src="https://github.com/user-attachments/assets/521a56a9-af5c-4d5c-911b-64e537b5e35f" />
+<img width="1324" height="573" alt="image" src="https://github.com/user-attachments/assets/4236a891-3716-44ad-80ff-7f68032ae575" />
 
 ---
 
