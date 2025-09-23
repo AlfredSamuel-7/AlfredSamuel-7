@@ -33,10 +33,27 @@
 ---
 
 ## GitHub at a Glance
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlfredSamuel-7&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredSamuel-7&layout=compact&theme=radical&hide_border=true" height="150" />
+  <!-- Left: overall stats | Right: top languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AlfredSamuel-7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" width="520" style="display:inline-block; margin-right:14px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredSamuel-7&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="320" style="display:inline-block;" />
 </p>
+
+<p align="center" markdown="1">
+  <!-- Optional contribution streak / activity line -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlfredSamuel-7&theme=radical&hide_border=true" alt="GitHub streak" width="860" />
+</p>
+
+<p align="center">
+  <!-- Framed portfolio preview, sized for balance -->
+  <img src="https://github.com/user-attachments/assets/521a56a9-af5c-4d5c-911b-64e537b5e35f" alt="Portfolio preview" width="860" />
+  <br>
+  <sub>
+    Preview image from my <a href="https://alfredsamuelportfoliowebsite.vercel.app" target="_blank">portfolio website</a>.
+  </sub>
+</p>
+
 
 <img width="1120" height="607" alt="image" src="https://github.com/user-attachments/assets/521a56a9-af5c-4d5c-911b-64e537b5e35f" />
 
