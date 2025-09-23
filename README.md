@@ -9,8 +9,8 @@
 ---
 
 ## About Me
-I’m Alfred Samuel — a passionate and versatile Computer Science and Design undergraduate specializing in Artificial Intelligence and Full-Stack Development.  
-I enjoy building end-to-end applications, intelligent systems, and crafting modern user experiences.  
+<img width="1008" height="569" alt="image" src="https://github.com/user-attachments/assets/d1d6d8cf-5187-4468-aaa4-33a54d6e9efc" />
+
 
 ---
 
@@ -28,10 +28,7 @@ I enjoy building end-to-end applications, intelligent systems, and crafting mode
 ---
 
 ## Featured Projects
-- **Digital Marketing Website** – Full-stack responsive site with admin dashboard & inquiry forms.  
-- **Construction Cost Estimator** – ML-powered cost prediction & 3D floor plan generation.  
-- **Medical Chatbot** – AI-powered chatbot using OpenAI API for medical Q&A.  
-- **Streaming Platform (PWA)** – Authentication, search, watchlist, and video hosting.  
+<img width="1010" height="690" alt="image" src="https://github.com/user-attachments/assets/c8d51eb0-42dc-4f53-a3b0-55d15af9c6d0" />
 
 ---
 
@@ -40,3 +37,13 @@ I enjoy building end-to-end applications, intelligent systems, and crafting mode
   <img src="https://github-readme-stats.vercel.app/api?username=AlfredSamuel-7&show_icons=true&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredSamuel-7&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
+
+<img width="1120" height="607" alt="image" src="https://github.com/user-attachments/assets/521a56a9-af5c-4d5c-911b-64e537b5e35f" />
+
+---
+
+<p align="center">
+  <sub>All images showcased above are from my <a href="https://alfredsamuelportfoliowebsite.vercel.app" target="_blank">portfolio website</a> — created and maintained by Alfred Samuel.</sub>
+</p>
+
+
