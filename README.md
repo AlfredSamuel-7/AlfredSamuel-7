@@ -46,11 +46,11 @@
 </p>
 
 <p align="center">
-  <!-- Framed portfolio preview, sized for balance -->
-  <img src="https://github.com/user-attachments/assets/521a56a9-af5c-4d5c-911b-64e537b5e35f" alt="Portfolio preview" width="860" />
+  
+  
   <br>
   <sub>
-    Preview image from my <a href="https://alfredsamuelportfoliowebsite.vercel.app" target="_blank">portfolio website</a>.
+
   </sub>
 </p>
 
