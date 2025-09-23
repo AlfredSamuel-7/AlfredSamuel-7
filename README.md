@@ -35,13 +35,21 @@
 ## GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlfredSamuel-7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredSamuel-7&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlfredSamuel-7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" height="170" style="display:inline-block; margin-right:10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredSamuel-7&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="170" style="display:inline-block;" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlfredSamuel-7&theme=radical&hide_border=true" alt="GitHub streak" height="170" />
+<p align="center" style="margin-top:12px;">
+  <img src="https://streak-stats.demolab.com?user=AlfredSamuel-7&theme=radical&hide_border=true" alt="GitHub streak" height="110" />
 </p>
+
+<p align="center" style="margin-top:14px;">
+  <!-- Contribution heatmap (compact, centered) -->
+  <img src="https://ghchart.rshah.org/AlfredSamuel-7" alt="Contribution chart for AlfredSamuel-7" width="860" />
+  <br/>
+  <sub>Contributions heatmap (last 12 months).</sub>
+</p>
+
 
 <img width="1324" height="573" alt="image" src="https://github.com/user-attachments/assets/4236a891-3716-44ad-80ff-7f68032ae575" />
 
